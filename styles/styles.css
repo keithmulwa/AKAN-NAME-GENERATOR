@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif    ;
+    max-width: 600px;
+    margin: 30px;
+    padding: 20px;
+    background-color:rgb(189, 189, 252) ;
+    border: 1px;
+    border-radius: 20px;
+    border-color: black;
+}
+
+#Akan-name{
+    font-style: italic;
+    color: black;
+}
+    
